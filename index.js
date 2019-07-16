@@ -14,7 +14,7 @@ function johnLennonFacts(facts) {
   return allFacts
 }
 
-function iLoveTheBeatles(num) {
+function iLoveTheBeatles(n) {
   var beatles = [];
-  do beatles.push()
+  do beatles.push("I love the Beatles!")
 }
